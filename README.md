@@ -45,14 +45,13 @@ git clone https://github.com/BrunaBeatriiz/review-board.git
 cd review-board
 npm install
 npm run dev
+```
 
 ---
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="img/fototela.png" width="100%" />
-</p>
+![preview do projeto](img/telafoto.png)
 
 ---
 
