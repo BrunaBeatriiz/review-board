@@ -49,7 +49,9 @@ npm run dev
 
 ## 📸 Preview
 
-![Review Board Preview](./img/fototela.png)
+<p align="center">
+  <img src="./img/fototela.png" width="100%" />
+</p>
 
 ---
 
