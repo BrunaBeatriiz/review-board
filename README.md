@@ -51,7 +51,7 @@ npm run dev
 
 ## 📸 Preview
 
-![preview do projeto](img/telafoto.png)
+![preview do projeto](img/fototela.png)
 
 ---
 
