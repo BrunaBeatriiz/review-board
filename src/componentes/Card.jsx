@@ -14,7 +14,7 @@ function Card({ item, toggleLike, toggleDeslike, removerItem }) {
    const corAtual = cores[Math.min(div, cores.length-1)];
 
   return (
-    <div className="bg-slate-900 p-5 rounded-2xl shadow-lg border border-slate-700 flex flex-col overflow-hidden gap-1 hover:border-slate-500 opacity-0 hover:-translate-y-4 transition-all duration-300 animate-[fadeIn_0.3s_ease_forwards]">
+    <div className="bg-slate-900 p-5 rounded-2xl shadow-lg border border-slate-700 flex flex-col h-full overflow-hidden gap-1 hover:border-slate-500 opacity-0 hover:-translate-y-4 transition-all duration-300 animate-[fadeIn_0.3s_ease_forwards]">
       <div className="flex items-center justify-between gap-4">
         <h1 className="text-white text-xl font-bold tracking-wide font-serif mb-1">
           {titulo.toUpperCase()}
