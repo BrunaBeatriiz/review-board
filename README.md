@@ -46,6 +46,7 @@ cd review-board
 npm install
 npm run dev
 
+---
 
 ## 📸 Preview
 
