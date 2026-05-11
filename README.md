@@ -50,7 +50,7 @@ npm run dev
 ## 📸 Preview
 
 <p align="center">
-  <img src="./img/fototela.png" width="100%" />
+  <img src="./src/img/fototela.png" width="100%" />
 </p>
 
 ---
