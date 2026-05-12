@@ -57,6 +57,6 @@ npm run dev
 
 ## 🌐 Deploy
 
-👉 https://SEU-LINK.vercel.app
+👉 https://review-board-iota.vercel.app/
 
 ---

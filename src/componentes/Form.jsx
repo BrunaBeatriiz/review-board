@@ -25,6 +25,7 @@ function Form ({novoItem}) {
     onSubmit={handleSubmit}>
       <input type="text" placeholder="" 
       className="w-full bg-slate-700 text-white p-1 rounded-xl outline-none border border-slate-700 focus:border-blue-500"
+      placeholder="Digite o nome do favorito"
       value={titulo}
       onChange={(event) => setTitulo(event.target.value)}/>
       <select name="" id=""
@@ -38,10 +39,12 @@ function Form ({novoItem}) {
       </select>
        <input type="text" placeholder="" 
        className="w-full bg-slate-700 text-white p-1 rounded-xl outline-none border border-slate-700 focus:border-blue-500"
+       placeholder="Escreva uma descrição..."
       value={descricao}
       onChange={(event) => setDescricao(event.target.value)}/>
       <input type="number" name="" id="" step={0.1}  min={0} max={10}
       className="w-full bg-slate-700 text-white p-1 rounded-xl outline-none border border-slate-700 focus:border-blue-500"
+      placeholder="Nota de 0 a 10"
       value={nota}
       onChange={(event) => setNota(event.target.value)}/>
       <button type="submit" 
